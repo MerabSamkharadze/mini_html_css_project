@@ -13,6 +13,7 @@ Dark green: rgba(40, 180, 133, 1)
   margin: 0;
   padding: 0;
   box-sizing: inherit;
+  text-decoration: none;
 }
 html {
   font-size: 62.5%;
